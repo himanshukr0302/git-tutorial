@@ -1,3 +1,3 @@
 print("Some other file stored in src folder! ")
-print("Version update !!!")
-print("Version 2 is here")
+print("Here's a new version update !!!")
+print("Version 3 is here")

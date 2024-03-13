@@ -1,3 +1,4 @@
 print("Learning the basics of git")
-print("Version 1 has been updated !")
-print("Welcome to version 2")
+print("Almost learned it !!!")
+print("Version 2 has been updated !")
+print("Welcome to version 3")
